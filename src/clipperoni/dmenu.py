@@ -1,5 +1,5 @@
 import subprocess
-import clickeroni.config as config
+import clipperoni.config as config
 
 
 def dmenu(choices=[], **kwargs) -> str:

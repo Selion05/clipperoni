@@ -1,4 +1,4 @@
-# clickeroni
+# clipperoni
 A simple clipboard manager with dmenu
 
 I recently found [clipmenu](https://github.com/cdown/clipmenu) and I liked the idea of having multiple clipboards, but I didn't like that every clipboard change gets stored. 
